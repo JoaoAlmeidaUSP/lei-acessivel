@@ -1,0 +1,6 @@
+streamlit
+textstat
+PyMuPDF
+transformers
+torch
+sentencepiece
